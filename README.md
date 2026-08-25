@@ -25,7 +25,7 @@ Najprościej:
 Jeżeli masz Git:
 
 ```powershell
-git clone ADRES_TEGO_REPOZYTORIUM
+git clone https://github.com/HjustonAI/handy-polish-dictation.git
 cd handy-polish-dictation
 .\Uruchom instalacje.cmd
 ```
