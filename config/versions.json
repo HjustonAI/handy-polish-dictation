@@ -1,0 +1,23 @@
+{
+  "handy": {
+    "version": "0.9.4",
+    "url": "https://github.com/cjpais/Handy/releases/download/v0.9.4/Handy_0.9.4_x64-setup.exe",
+    "sha256": "49099af1462b815a3bb7959d96959f5559b0025334c47bb8ed65337c7351d489",
+    "signer_contains": "YNYNG LLC"
+  },
+  "whisper": {
+    "id": "handy-computer/whisper-large-v3-turbo-gguf/whisper-large-v3-turbo-Q8_0.gguf",
+    "repo_id": "handy-computer/whisper-large-v3-turbo-gguf",
+    "revision": "5eaf945c7978e564bae5b28a5b1639dd93c2bfb1",
+    "filename": "whisper-large-v3-turbo-Q8_0.gguf",
+    "url": "https://huggingface.co/handy-computer/whisper-large-v3-turbo-gguf/resolve/5eaf945c7978e564bae5b28a5b1639dd93c2bfb1/whisper-large-v3-turbo-Q8_0.gguf?download=true",
+    "sha256": "b2e30cc286bc9f3aba4db9099fc7403543497c05ce7100d0d83091ddfd25a183",
+    "minimum_discrete_gpu_vram_mb": 3500
+  },
+  "parakeet": {
+    "id": "parakeet-tdt-0.6b-v3",
+    "directory": "parakeet-tdt-0.6b-v3-int8",
+    "url": "https://blob.handy.computer/parakeet-v3-int8.tar.gz",
+    "sha256": "43d37191602727524a7d8c6da0eef11c4ba24320f5b4730f1a2497befc2efa77"
+  }
+}

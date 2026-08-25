@@ -1,0 +1,17 @@
+# Pliki pobierane przez instalator są duże i mają pozostać poza Gitem.
+downloads/
+*.exe
+*.msi
+*.gguf
+*.bin
+*.tar.gz
+
+# Lokalna konfiguracja Handy może zawierać prywatne dane lub klucze API.
+settings_store.json
+*.backup.json
+
+# Śmieci systemowe i edytorów.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

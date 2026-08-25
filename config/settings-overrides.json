@@ -1,0 +1,29 @@
+{
+  "always_on_microphone": false,
+  "app_language": "pl-PL",
+  "audio_feedback": true,
+  "audio_feedback_volume": 0.5,
+  "auto_submit": false,
+  "autostart_enabled": true,
+  "bindings": {
+    "transcribe": {
+      "current_binding": "ctrl+KeypadMultiply"
+    }
+  },
+  "clipboard_handling": "copy_to_clipboard",
+  "history_limit": 5,
+  "keyboard_implementation": "handy_keys",
+  "log_level": "info",
+  "model_unload_timeout": "never",
+  "onboarding_completed": true,
+  "paste_method": "ctrl_v",
+  "post_process_enabled": false,
+  "push_to_talk": false,
+  "recording_retention_period": "never",
+  "selected_language": "pl",
+  "show_whats_new_on_update": false,
+  "start_hidden": true,
+  "translate_to_english": false,
+  "update_checks_enabled": false,
+  "vad_enabled": true
+}
